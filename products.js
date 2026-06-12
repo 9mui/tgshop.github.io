@@ -5,7 +5,7 @@ const PRODUCTS = [
     title: "Базовая футболка",
     price: 1490,
     category: "Футболки",
-    image: "https://via.placeholder.com/300x380?text=Футболка",
+    image: "images/kepka.jpg",
   },
   {
     id: 2,
